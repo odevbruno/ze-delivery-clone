@@ -1,0 +1,11 @@
+export const CorBrancaBG = '#fff';
+export const CorAmareloPadrao = '#ffcc01'; 
+export const CorAmareloEscuro = '#e79b25'; 
+export const CorAmareloEscuroForte = '#d67c2a';  
+export const CorDisable = '#e6e6e6';
+export const CorDisableTxt = '#9d9d9d';
+export const CorCinzaCheck = '#5e5e5e';  
+export const CorFacebook = '#3559a5';  
+export const CorApple = '#333333';  
+export const CorDisableIcon = '#cccccc';   
+export const CorTxtPretoFosco = '#3c3c3c';   

@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ze-delivery-clone",
+    "slug": "ze-delivery-clone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
